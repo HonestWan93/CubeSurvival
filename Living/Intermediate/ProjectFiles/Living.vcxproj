@@ -414,8 +414,10 @@
     <None Include="..\..\Config\DefaultGame.ini" />
     <None Include="..\..\Source\Living\Living.Build.cs" />
     <ClCompile Include="..\..\Source\Living\CubeActorComponent.cpp" />
+    <ClCompile Include="..\..\Source\Living\CubeBaseActor.cpp" />
     <ClCompile Include="..\..\Source\Living\Living.cpp" />
     <ClInclude Include="..\..\Source\Living\CubeActorComponent.h" />
+    <ClInclude Include="..\..\Source\Living\CubeBaseActor.h" />
     <ClInclude Include="..\..\Source\Living\Living.h" />
     <ClCompile Include="..\..\Source\Living\LivingGameModeBase.cpp" />
     <ClInclude Include="..\..\Source\Living\LivingGameModeBase.h" />

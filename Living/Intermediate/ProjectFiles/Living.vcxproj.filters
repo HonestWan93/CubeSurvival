@@ -46,9 +46,15 @@
     <ClInclude Include="..\..\Source\Living\CubeActorComponent.h">
       <Filter>Source\Living</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\Source\Living\CubeBaseActor.h">
+      <Filter>Source\Living</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\Source\Living\CubeActorComponent.cpp">
+      <Filter>Source\Living</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Living\CubeBaseActor.cpp">
       <Filter>Source\Living</Filter>
     </ClCompile>
   </ItemGroup>
