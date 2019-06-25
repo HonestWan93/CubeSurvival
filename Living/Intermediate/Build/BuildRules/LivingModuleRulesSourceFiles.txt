@@ -1,0 +1,3 @@
+C:\Users\shin\Source\Repos\LivingProject\Living\Source\Living\Living.Build.cs
+C:\Users\shin\Source\Repos\LivingProject\Living\Source\Living.Target.cs
+C:\Users\shin\Source\Repos\LivingProject\Living\Source\LivingEditor.Target.cs

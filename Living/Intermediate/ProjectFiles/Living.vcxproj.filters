@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\Living.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{BC60E142-9234-402F-B51C-6601F3033280}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Living.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\LivingEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{DC4E3519-5056-4998-B62B-26918C92DF55}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\Living">
+			<UniqueIdentifier>{A51AB54C-1174-425D-AD1D-0E032B544E75}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Living\Living.Build.cs">
+			<Filter>Source\Living</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\Living\Living.cpp">
+			<Filter>Source\Living</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Living\Living.h">
+			<Filter>Source\Living</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Living\LivingGameModeBase.cpp">
+			<Filter>Source\Living</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Living\LivingGameModeBase.h">
+			<Filter>Source\Living</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
